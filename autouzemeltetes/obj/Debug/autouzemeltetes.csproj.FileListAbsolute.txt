@@ -1,0 +1,8 @@
+C:\Users\tanulo\Desktop\NaG\CsJ\autouzemeltetes\autouzemeltetes\bin\Debug\autouzemeltetes.exe.config
+C:\Users\tanulo\Desktop\NaG\CsJ\autouzemeltetes\autouzemeltetes\bin\Debug\autouzemeltetes.exe
+C:\Users\tanulo\Desktop\NaG\CsJ\autouzemeltetes\autouzemeltetes\bin\Debug\autouzemeltetes.pdb
+C:\Users\tanulo\Desktop\NaG\CsJ\autouzemeltetes\autouzemeltetes\obj\Debug\autouzemeltetes.csproj.AssemblyReference.cache
+C:\Users\tanulo\Desktop\NaG\CsJ\autouzemeltetes\autouzemeltetes\obj\Debug\autouzemeltetes.csproj.SuggestedBindingRedirects.cache
+C:\Users\tanulo\Desktop\NaG\CsJ\autouzemeltetes\autouzemeltetes\obj\Debug\autouzemeltetes.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\NaG\CsJ\autouzemeltetes\autouzemeltetes\obj\Debug\autouzemeltetes.exe
+C:\Users\tanulo\Desktop\NaG\CsJ\autouzemeltetes\autouzemeltetes\obj\Debug\autouzemeltetes.pdb
